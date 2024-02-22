@@ -1,2 +1,4 @@
-cout<< "My name is: "<<"Sohail Maqsood";
-cout<< "My roll number is: "<<"SET_014";
+cout<< "My name is:"<<"Sohail Maqsood";
+cout<< "My roll number is:"<<"SET_014";
+My fsc subjects are followed:
+math,chemistry,physics,urdu,english,islamic study
